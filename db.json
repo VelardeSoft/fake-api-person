@@ -1,0 +1,16 @@
+{
+  "personas": [
+    { "id": 1, "nombre": "Ana Martínez", "edad": 22 },
+    { "id": 2, "nombre": "Carlos Pérez", "edad": 25 },
+    { "id": 3, "nombre": "Lucía Gómez", "edad": 20 },
+    { "id": 4, "nombre": "Diego Torres", "edad": 27 },
+    { "id": 5, "nombre": "María Fernández", "edad": 24 }
+  ],
+  "universidades": [
+    { "id": 1, "nombre": "Universidad Nacional" },
+    { "id": 2, "nombre": "Instituto Tecnológico de Monterrey" },
+    { "id": 3, "nombre": "Universidad de Buenos Aires" },
+    { "id": 4, "nombre": "Pontificia Universidad Javeriana" },
+    { "id": 5, "nombre": "Universidad de São Paulo" }
+  ]
+}
